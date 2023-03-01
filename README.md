@@ -1,9 +1,4 @@
-import '@github/typing-effect-element'
-
-<typing-effect data-lines='["Welcome to GitHub!", "Let’s begin the adventure"]'>
-  <span data-target="typing-effect.content"></span>
-  <span data-target="typing-effect.cursor">|</span>
-</typing-effect>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=07FF00&center=true&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
 
 
 
