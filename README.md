@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=07FF00&center=true&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=40&pause=1000&color=AA13FF&multiline=true&width=700&height=200&lines=%E2%80%8E+%E2%80%8E+%E2%80%8E%E2%80%8E+%E2%80%8EHi+%3A+);%3E+I'm+not+a+Dev;%3E+I+prefer+Network;%3E+So+this+is+my+GitHub)](https://git.io/typing-svg)
 
 
 # 💻 Tech Stack:
