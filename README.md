@@ -13,6 +13,8 @@
 ### 😂 Random Dev Meme
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--fhrVanJC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ie80g8dfk979zbsigwvj.png" width="512px"/>
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q5K5CZ1)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=YameteNekoSan&icon=0&color=12)](https://visitcount.itsvg.in)
 
